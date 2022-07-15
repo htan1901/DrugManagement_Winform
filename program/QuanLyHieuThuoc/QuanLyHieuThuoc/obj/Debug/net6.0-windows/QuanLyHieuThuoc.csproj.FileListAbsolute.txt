@@ -1,0 +1,17 @@
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\bin\Debug\net6.0-windows\QuanLyHieuThuoc.exe
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\bin\Debug\net6.0-windows\QuanLyHieuThuoc.deps.json
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\bin\Debug\net6.0-windows\QuanLyHieuThuoc.runtimeconfig.json
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\bin\Debug\net6.0-windows\QuanLyHieuThuoc.dll
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\bin\Debug\net6.0-windows\QuanLyHieuThuoc.pdb
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\obj\Debug\net6.0-windows\QuanLyHieuThuoc.csproj.AssemblyReference.cache
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\obj\Debug\net6.0-windows\QuanLyHieuThuoc.Form1.resources
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\obj\Debug\net6.0-windows\QuanLyHieuThuoc.csproj.GenerateResource.cache
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\obj\Debug\net6.0-windows\QuanLyHieuThuoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\obj\Debug\net6.0-windows\QuanLyHieuThuoc.AssemblyInfoInputs.cache
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\obj\Debug\net6.0-windows\QuanLyHieuThuoc.AssemblyInfo.cs
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\obj\Debug\net6.0-windows\QuanLyHieuThuoc.csproj.CoreCompileInputs.cache
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\obj\Debug\net6.0-windows\QuanLyHieuThuoc.dll
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\obj\Debug\net6.0-windows\refint\QuanLyHieuThuoc.dll
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\obj\Debug\net6.0-windows\QuanLyHieuThuoc.pdb
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\obj\Debug\net6.0-windows\QuanLyHieuThuoc.genruntimeconfig.cache
+C:\Users\htan1\Tan\Coding\Project\DotNet\DrugManaging\program\QuanLyHieuThuoc\QuanLyHieuThuoc\obj\Debug\net6.0-windows\ref\QuanLyHieuThuoc.dll
